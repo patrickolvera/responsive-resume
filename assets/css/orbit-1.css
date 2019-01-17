@@ -256,6 +256,10 @@ p {
   margin-bottom: 30px;
 }
 
+.diploma {
+  width: 100%;
+}
+
 .main-wrapper .upper-row {
   position: relative;
   overflow: hidden;
