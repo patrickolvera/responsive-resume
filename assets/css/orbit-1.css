@@ -201,6 +201,19 @@ p {
   margin-bottom: 0;
 }
 
+.download-container a:hover {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.fa-file-alt {
+  font-size: 1.25rem;
+}
+
+.download-text {
+  margin-left: 0.5rem;
+}
+
 .main-wrapper {
   background: #fff;
   padding: 60px;
